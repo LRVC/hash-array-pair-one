@@ -1,0 +1,28 @@
+[
+  {
+    "artist": "Foggy Mountain Boys",
+    "songs": [
+      {
+        "title": "Foggy Mountain Breakdown",
+        "year": "1949"
+      },
+      {
+        "title": "Polka on a Banjo",
+        "year": "1961"
+      }
+    ]
+  },
+  {
+    "artist": "Doc Watson",
+    "songs": [
+      {
+        "title": "Bottle of Wine",
+        "year": "1973"
+      },
+      {
+        "title": "Don't Think Twice, It's All Right",
+        "year": "1961"
+      }
+    ]
+  }
+]
