@@ -35,7 +35,8 @@ describe BluegrassParser do
   end
 
   describe "#songs_for_year" do
-    it "returns songs for a given year" do      expect(bluegrass_parser.songs_for_year("1961")).to eq ["Polka on a Banjo", "Don't Think Twice, It's All Right"]
+    it "returns songs for a given year" do
+      expect(bluegrass_parser.songs_for_year("1961")).to eq ["Polka on a Banjo", "Don't Think Twice, It's All Right"]
     end
   end
 end
